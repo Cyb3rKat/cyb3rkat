@@ -16,7 +16,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -34,9 +33,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/cyb3rkat">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyb3rkat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyb3rkat&layout=compact&langs_count=8&theme=algolia"/>
+ <script src="https://tryhackme.com/badge/1184159"></script>
+ <a href="https://github.com/cyb3rkat">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyb3rkat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyb3rkat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
