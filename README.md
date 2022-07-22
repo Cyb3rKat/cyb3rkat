@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to explore new technologies and develope Web Applications.\
 🌱 &nbsp;I'm on track for learning more about Cyber Security and DevOps.\
-✍️ &nbsp;In my free time, I enjoy creating Youtube Videos & writting Blog Posts on my Website.\ 
+✍️ &nbsp;In my free time, I enjoy creating Youtube Videos & writting Blog Posts on my Website.\
 ✉️ &nbsp;You can reach me at Khodadadi[dot]alisa[AT]gmail.com, I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.google.com) for more details about me. I'm open to feedback and suggestions!
 
