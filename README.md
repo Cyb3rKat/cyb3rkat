@@ -1,6 +1,6 @@
 ![Alisa Khodadadi | Cyb3rKat Banner](https://cdn.githubraw.com/Cyb3rKat/cyb3rkat/main/assets/AlisakhodadadiBanner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alisa</h2>
+<img alt="Night Coding" src="" width='40' align="left"/><h2>Hey there! I'm Alisa</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Alisa-->
 
@@ -9,7 +9,6 @@
 💡 &nbsp;I like to explore new technologies and develope Web Applications.\
 🌱 &nbsp;I'm on track for learning more about Cyber Security and DevOps.\
 ✍️ &nbsp;In my free time, I enjoy creating Youtube Videos & writting Blog Posts on my Website.\ 
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can reach me at Khodadadi[dot]alisa[AT]gmail.com, I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.google.com) for more details about me. I'm open to feedback and suggestions!
 
@@ -40,10 +39,11 @@
 </a>
 </p>
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.alisakh.com"><img src="https://img.shields.io/badge/Alisakh.com-blue?style=flat&logo=Google-Chrome&logoColor=white"></a>
-<a href="https://linkedin.com/alisakhodadadi"><img src="https://img.shields.io/badge/-Alisa%20Khodadadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alisakhodadadi"><img src="https://img.shields.io/badge/-Alisa%20Khodadadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khodadadi.alisa@gmail.com"><img src="https://img.shields.io/badge/-khodadadi.alisa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
