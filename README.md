@@ -1,4 +1,4 @@
-![Alisa Khodadadi | Cyb3rKat Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Alisa Khodadadi | Cyb3rKat Banner](https://cdn.githubraw.com/Cyb3rKat/cyb3rkat/main/assets/AlisakhodadadiBanner.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alisa</h2>
 
