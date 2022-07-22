@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Cyber Security and DevOps.\
 ✍️ &nbsp;In my free time, I enjoy creating Youtube Videos & writting Blog Posts on my Website.\ 
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can reach me at Khodadadi[dot]alisa@gmail.com, I'll try to respond as soon as I can.\
+✉️ &nbsp;You can reach me at Khodadadi[dot]alisa[AT]gmail.com, I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.google.com) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -33,17 +33,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
- <script src="https://tryhackme.com/badge/1184159"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rkat.png" alt="TryHackMe">
  <a href="https://github.com/cyb3rkat">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyb3rkat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyb3rkat&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyb3rkat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyb3rkat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.alisakh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/alisakhodadadi"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:khodadadi.alisa@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.alisakh.com"><img src="https://img.shields.io/badge/Alisakh.com-blue?style=flat&logo=Google-Chrome&logoColor=white"></a>
+<a href="https://linkedin.com/alisakhodadadi"><img src="https://img.shields.io/badge/-Alisa%20Khodadadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:khodadadi.alisa@gmail.com"><img src="https://img.shields.io/badge/-khodadadi.alisa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
