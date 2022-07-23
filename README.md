@@ -1,6 +1,6 @@
 ![Alisa Khodadadi | Cyb3rKat Banner](https://cdn.githubraw.com/Cyb3rKat/cyb3rkat/main/assets/AlisakhodadadiBanner.png)
 
-<img alt="Night Coding" src="" width='40' align="left"/><h2>Hey there! I'm Alisa</h2>
+<img alt="Night Coding" src="assets/jammies.gif" width='40' align="left"/><h2 style={padding-left:10}> Hey there! I'm Alisa</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Alisa-->
 
